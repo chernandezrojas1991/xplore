@@ -1,0 +1,19 @@
+data:
+  characteristics:
+    colors:
+      - name: "rojo"
+      - name: "verde"
+      - name: "amarillo"
+      - name: "naranjo"
+      - name: "café"
+      - name: "blanco"
+      - name: "negro"
+      - name: "gris"
+      - name: "púrpura"
+      - name: "rosado"
+      - name: "dorado"
+      - name: "plateado"
+      - name: "tornasol"
+      - name: "bi color"
+    design:
+      -
